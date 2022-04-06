@@ -1,2 +1,2 @@
 # E-Buy-project
-https://kaucherrakib.github.io/E-Buy/
+https://kaucherrakib.github.io/E-Buy-project/
